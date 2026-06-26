@@ -1,0 +1,4 @@
+QMAKE_INCDIR_LIBPNG = C:/Qt/qtbase/src/3rdparty/libpng
+QMAKE_DEFINES_LIBPNG = 
+QMAKE_LIBS_LIBPNG_RELEASE = $$[QT_INSTALL_LIBS/get]/libQt6BundledLibpng.a
+QMAKE_LIBS_LIBPNG_DEBUG = $$[QT_INSTALL_LIBS/get]/libQt6BundledLibpngd.a
