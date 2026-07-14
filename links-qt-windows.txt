@@ -1,0 +1,16 @@
+qtcreator
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/tools_qtcreator/qt.tools.qtcreator/9.0.0-0-202211220359qtcreator.7z
+compiler
+https://ftp.nluug.nl/languages/qt/development_releases/prebuilt/mingw_64/MinGW-w64-x86_64-13.1.0-release-posix-seh-msvcrt-rt_v11-rev1.7z
+gdb
+https://github.com/brechtsanders/winlibs_mingw/releases/download/14.2.0posix-19.1.1-12.0.0-ucrt-r2/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2.7z
+qmake
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/qt6_680/qt6_680/qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/qt6_680/qt6_680/qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/qt6_680/qt6_680/qt.qt6.680.win64_mingw/6.8.0-0-202410030750qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/qt6_680/qt6_680/qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/qt6_680/qt6_680/qt.qt6.680.win64_mingw/6.8.0-0-202410030750qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+cmake
+https://ftp.nluug.nl/languages/qt/online/qtsdkrepository/windows_x86/desktop/tools_cmake/qt.tools.cmake/3.30.5-202502251255windows64_x64_cmake_tools.7z
+make
+C:\msys64\usr\bin\make.exe
